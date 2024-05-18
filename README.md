@@ -17,7 +17,7 @@ Running the System:**
 * Compile the code using the following command (replace g++ with your compiler if it's different):
 
 ```
-g++ security_system.cpp -o security
+g++ main.cpp -o security
 ```
 * Use code with caution content_copy
 
